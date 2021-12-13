@@ -1,40 +1,72 @@
-AlertOps Expert Guidance
+5 Ways to Improve On-call Management (So Nothing Falls Through the Cracks)
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Your enterprise has IT team members “on call,” so you can get immediate support with downtime, outages, and similar issues. That’s why streamlining on-call management may dictate your IT team’s success.
 
-Not One Size Fits All
+Bonus Material: Advanced Escalation Example PDF
+
+To understand why, consider what will happen if a network or system crashes but IT team members cannot quickly and effectively communicate with one another.
+
+If a network or system crashes, responders may go off in opposite directions to resolve the issue, even if several team members are available. This can lead to confusion, due to the fact that IT team members may work individually to mitigate the problem.
+
+As IT team members work to resolve the issue, they may inadvertently overlap with one another. This may eventually limit team members’ ability to resolve the incident, cause the issue to escalate, and lead to substantial downtime that hampers employee productivity. Meanwhile, the issue may cause revenue losses, brand reputation damage, and compliance penalties as well.
+
+Comparatively, if your IT team prioritizes on-call management, team members will have no trouble communicating and collaborating with one another until an incident is resolved. Available team members can be instantly notified when an IT issue is identified, and they can manage and correct the problem without delay. That way, team members can mitigate an incident before it causes severe damage to your enterprise and its stakeholders.
+
+How your enterprise approaches on-call management can have far-flung effects. With an in-depth approach to on-call management, your enterprise puts itself in a great position to minimize the impact of IT incidents now and in the future.\
+
+What Does It Mean to Be “On Call”?
+====
+
+“On-call” is a process in which IT administrators, security operators, or other team members are available at designated times. An on-call schedule stipulates when IT team members are available to respond to incidents, and it typically accounts for 24/7 IT management.
+
+The goal of an on-call schedule is to ensure that IT team members are available to respond to incidents, any time they happen. This schedule may be fixed or flexible, and it may require an enterprise to place team members into rotations or groups. It may also designate escalations and who should respond to certain types of incidents based on their impact on an enterprise and its stakeholders.
+
+Along with on-call schedules, an enterprise generally establishes policies to ensure that its IT team can avoid coverage lapses. These policies may help an IT team coordinate on-call scheduling and ensure that coverage is in place on weekends, weeknights, holidays, and all other periods. Additionally, they may allow an IT team to automate on-call management processes and procedures.
+
+Benefits of On-Call Management
+====
+
+On-call management eliminates the risk that incident notifications will fall between the cracks. Because, if an enterprise has on-call schedules and policies in place, it can ensure that IT team members are available to address incidents right away.
+
+Thanks to on-call management, an enterprise may reduce or eliminate downtime and prevent IT issues from escalating, too. On-call management for NOC, SOC, DevOps, and other IT teams ensures that these groups have team members on hand to mitigate issues. Plus, various IT teams can leverage on-call management technologies to coordinate incident response in the event that an IT issue requires support from multiple teams.
+
+Let’s not forget about the impact of on-call management on burnout and alert fatigue, too. If IT team members feel overwhelmed by the sheer volume of incident alerts they receive, these team members may be more prone to tune out myriad notifications. However, with on-call management, IT team members receive timely, relevant, and pertinent incident notifications — and only scheduled team members will receive these notifications and can respond accordingly.
+
+On-call management can drive long-term incident response improvements across an enterprise as well. If an enterprise’s IT teams collect incident response data, analyze this information, and share it with one another, they may discover improvement areas. Then, these teams can work together to implement enterprise-wide on-call management enhancements that lead to less downtime, fewer outages, and other meaningful improvements.
+
+Improve On-Call Management Across Your Enterprise
+====
+
+There are many ways to enhance on-call management across your enterprise, such as:
+
+1. Develop and Leverage Escalation Policies
+====
+Set up policies to define who will be notified about an incident and when alerts will escalated. Escalation policies ensure that major incidents can be addressed by the appropriate IT team members. They also limit the risk that an alert will go unaddressed for an extended period of time.
+
+2. Continue to Send Incident Alerts Until They Have Been Acknowledged
+====
+Ensure incident alerts are continuously delivered to on-call IT team members until they have confirmed receipt. Remember, a missed incident alert can cause serious problems for your enterprise and its stakeholders. By sending incident alerts until they are acknowledge, your organization minimizes the risk of a missed notification that otherwise could cause long-lasting harm.
+
+3. Track Audit Trails and Messages
+====
+Monitor incident notifications, who receives and responds to them, and how IT issues are mitigated. Audit trails can help your enterprise identify ways to improve incident management and response. They can empower your IT team with insights that they can use to respond to incidents more efficiently than ever before, too.
+
+4. Request Feedback
+====
+Encourage IT team members to share on-call management feedback. These team members may provide valuable tips, recommendations, and insights that your enterprise can use to bolster its on-call management.
+
+5. Utilize an On-Call Management Solution
 =====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+Deploy an on-call management solution across all enterprise IT teams. This solution should make it simple for IT team members to see who is available any time an issue arises. Furthermore, the solution should help IT team members stay in touch with one another until an incident is resolved.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+At AlertOps, we provide an incident management solution that takes the guesswork out of on-call management. We empower enterprise IT teams with the ability to manage on-call schedules however they choose. Also, our solution offers live call routing, rich alerts, and other features to help your IT team streamline incident management and response.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
-
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
-
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
-
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
-
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
+AlertOps can help your teams take on-call management to the next level.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/on-call-management/
 
 Read more:
 ====
